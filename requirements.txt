@@ -1,0 +1,9 @@
+mat73
+numpy
+matplotlib
+scipy
+scikit-learn
+pandas
+notebook
+pygame
+pyinstaller
