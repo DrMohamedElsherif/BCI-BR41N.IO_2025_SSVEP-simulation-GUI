@@ -1,3 +1,4 @@
+#  --- Brain-Computer Interface Hackathon 2025 ---
 # SSVEP Classification and Simulation
 
 A comprehensive toolset for SSVEP (Steady-State Visual Evoked Potential) EEG data analysis, classification, and visualization. This application allows you to visualize EEG data, simulate flickering LED stimuli, and apply advanced classification methods to detect brain responses to visual stimuli.
