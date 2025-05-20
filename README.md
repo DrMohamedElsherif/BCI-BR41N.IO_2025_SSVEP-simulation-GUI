@@ -1,4 +1,5 @@
-#### © Copyright [Moahmed Elsherif/Uni-Tübingen]. All rights reserved. #### Unauthorized copying, cloning, or distribution is prohibited.  
+#### © Copyright [Moahmed Elsherif/Uni-Tübingen]. All rights reserved. 
+Unauthorized copying, cloning, or distribution is prohibited.  
 
 #  --- Brain-Computer Interface (BCI) Hackathon 2025 ---
 # SSVEP Classification and Simulation
